@@ -20,6 +20,7 @@ public class GitTest {
         System.out.println("gitee pull");
         System.out.println("gitee push");
         System.out.println("master  update");
+        System.out.println("test-back-check");
     }
 
 }
