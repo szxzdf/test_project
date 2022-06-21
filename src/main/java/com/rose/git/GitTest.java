@@ -8,19 +8,7 @@ package com.rose.git;
 public class GitTest {
 
     public static void main(String[] args) {
-        System.out.println("hello pcy!");
-        System.out.println("hello pcy1!");
-        System.out.println("hello pcy2!");
-        System.out.println("hello pcy3!");
-        System.out.println("master test");
-        System.out.println("hot-fix test");
-        System.out.println("push test");
-        System.out.println("pull test");
-        System.out.println("pull test2");
-        System.out.println("gitee pull");
-        System.out.println("gitee push");
-        System.out.println("master  update");
-        System.out.println("test-back-check");
+        System.out.println("2022-06-21 first commit");
     }
 
 }
