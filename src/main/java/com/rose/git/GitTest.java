@@ -8,7 +8,7 @@ package com.rose.git;
 public class GitTest {
 
     public static void main(String[] args) {
-        System.out.println("2022-06-21 first commit");
+        System.out.println("2022-06-21 test_2022_6_21 first commit");
     }
 
 }
